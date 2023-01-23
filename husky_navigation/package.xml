@@ -8,17 +8,11 @@
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>hector_slam</build_depend>
-  <build_depend>husky_customization</build_depend>
-  <build_depend>move_base</build_depend>
-  <build_depend>outdoor_waypoint_nav</build_depend>
-  <build_depend>robot_localization</build_depend>
-  <run_depend>hector_mapping_nav</run_depend>
-  <run_depend>husky_custom_description</run_depend>
-  <run_depend>move_base</run_depend>
-  <run_depend>outdoor_waypoint_nav</run_depend>
-  <run_depend>robot_localization</run_depend>
-
+  <depend>hector_mapping_nav</depend>
+  <depend>husky_custom_description</depend>
+  <depend>move_base</depend>
+  <depend>outdoor_waypoint_nav</depend>
+  <depend>robot_localization</depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
