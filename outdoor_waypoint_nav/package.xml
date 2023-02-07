@@ -20,7 +20,7 @@
   <run_depend>hector_mapping_nav</run_depend>
   <run_depend>husky_control</run_depend>
   <run_depend>husky_customization</run_depend>
-
+  <run_depend>robot_localization</run_depend>
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <!-- Other tools can request additional information be placed here -->
